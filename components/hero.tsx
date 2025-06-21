@@ -132,7 +132,7 @@ export function Hero() {
             <div className="relative group">
               <div className="w-80 h-80 rounded-2xl overflow-hidden card-hover">
                 <Image
-                  src="/placeholder.svg?height=320&width=320"
+                  src={"profile.jpg"}
                   alt="Kundan Savale - Java Full Stack Developer"
                   width={320}
                   height={320}
